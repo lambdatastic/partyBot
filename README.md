@@ -1,36 +1,33 @@
 # partybot
 
-FIXME: description
+A Discord bot that makes parties for multiple games
 
 ## Installation
 
-Download from http://example.com/FIXME.
+To install, just clone the git repo.
+
+    $ git clone https://github.com/lambdatastic/partyBot
 
 ## Usage
 
-FIXME: explanation
+In order to run partyBot, you'll need to have Leiningen installed.
 
-    $ java -jar partybot-0.1.0-standalone.jar [args]
+    $ lein run
 
 ## Options
 
-FIXME: listing of options this app accepts.
+Currently, there are no options.
 
 ## Examples
 
-...
+WIP
 
 ### Bugs
 
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+WIP
 
 ## License
 
-Copyright © 2016 FIXME
+Copyright © 2016 Cassandra Cruz
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the Eclipse Public License version 1.0.
